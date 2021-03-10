@@ -1,0 +1,26 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "URL Shortener Service focused around user security!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kosterc/url-shortener.git"
+  },
+  "keywords": [],
+  "contributors": [
+    {
+      "email": "christopher@kostertech.io",
+      "name": "Christopher Koster",
+      "url": "https://kostertech.io"
+    }
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/kosterc/url-shortener/issues"
+  },
+  "homepage": "https://github.com/kosterc/url-shortener#readme"
+}
