@@ -22,5 +22,13 @@
   "bugs": {
     "url": "https://github.com/kosterc/url-shortener/issues"
   },
-  "homepage": "https://github.com/kosterc/url-shortener#readme"
+  "homepage": "https://github.com/kosterc/url-shortener#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "helmet": "^4.4.1",
+    "joi": "^17.4.0",
+    "monk": "^7.3.3",
+    "morgan": "^1.10.0"
+  }
 }
